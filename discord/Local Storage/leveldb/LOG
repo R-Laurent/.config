@@ -1,0 +1,6 @@
+2022/05/11-20:33:09.032 565 Reusing MANIFEST /home/raph/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/05/11-20:33:09.033 565 Recovering log #13
+2022/05/11-20:33:09.035 565 Reusing old log /home/raph/.config/discord/Local Storage/leveldb/000013.log 
+2022/05/11-20:35:28.113 565 Level-0 table #17: started
+2022/05/11-20:35:28.133 565 Level-0 table #17: 427888 bytes OK
+2022/05/11-20:35:28.136 565 Delete type=0 #13

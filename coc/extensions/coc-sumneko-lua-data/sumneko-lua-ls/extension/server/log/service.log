@@ -1,0 +1,67 @@
+[18:58:59.168][info] [#0:/home/raph/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/raph/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server
+[18:58:59.169][info] [#0:/home/raph/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:66]: ROOT:	/home/raph/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server
+[18:58:59.169][info] [#0:/home/raph/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:67]: LOGPATH:	/home/raph/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/log
+[18:58:59.169][info] [#0:/home/raph/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:68]: METAPATH:	/home/raph/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/meta
+[18:58:59.169][info] [#0:/home/raph/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:69]: VERSION:	3.2.2
+[18:58:59.223][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.489 MB
+        # 00 : 1.489 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[18:58:59.330][info] [#0:script/language.lua:137]: VSC language: en-us
+[18:58:59.330][info] [#0:script/language.lua:138]: LS  language: en-us
+[18:58:59.531][info] [#0:script/provider/provider.lua:54]: Load config from client	fallback
+[18:58:59.632][info] [#0:script/library.lua:207]: Init builtin library at:	nil
+[18:58:59.644][info] [#0:script/plugin.lua:80]: plugin path:	nil
+[18:58:59.644][info] [#0:script/provider/completion.lua:43]: Enable completion.
+[18:58:59.644][info] [#0:script/workspace/workspace.lua:278]: Preload start:	<fallback>
+[18:58:59.644][info] [#0:script/workspace/workspace.lua:294]: Scan library at:	file:///home/raph/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/meta/Lua%205.4%20en-us%20utf8
+[18:59:01.249][info] [#0:script/workspace/workspace.lua:308]: Found 11 files at:	<fallback>
+[18:59:01.249][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	<fallback>
+[18:59:01.300][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.041] sec: <fallback>
+[18:59:01.300][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: <fallback>
+[18:59:01.300][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	<fallback>
+[18:59:01.300][info] [#0:script/workspace/workspace.lua:310]: Preload finish at:	<fallback>
+[18:59:01.310][info] [#0:script/provider/diagnostic.lua:385]: Diagnostics scope [<fallback>], files count:[12]
+[18:59:01.396][info] [#0:script/provider/diagnostic.lua:402]: Diagnostics scope [<fallback>] finished, takes [0.080] sec.
+[18:59:05.613][info] [#0:script/provider/diagnostic.lua:385]: Diagnostics scope [<fallback>], files count:[11]
+[18:59:05.613][info] [#0:script/provider/diagnostic.lua:402]: Diagnostics scope [<fallback>] finished, takes [0.000] sec.
+[19:08:59.297][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 18.205 MB
+        # 00 : 9.565 MB
+        # 01 : 2.144 MB
+        # 02 : 2.180 MB
+        # 03 : 2.144 MB
+        # 04 : 2.171 MB
+    --------------- Coroutine ---------------
+        Total:     6
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      6
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
